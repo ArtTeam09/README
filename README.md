@@ -2,7 +2,7 @@
 🎨 Добро пожаловать в ArtTeam
 Официальная GitHub-организация студии разработки ArtStudia.
 
-<img src="(https://img.shields.io/badge/ArtStudia-Creative%20Tech-blueviolet?style=for-the-badge&logo=atom)" width="600" height="200">
+<img src="https://img.shields.io/badge/ArtStudia-Creative%20Tech-blueviolet?style=for-the-badge&logo=atom" width="400" height="200">
 
 Соединяем код и креатив.
 
